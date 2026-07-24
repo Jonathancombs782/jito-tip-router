@@ -1,0 +1,12 @@
+{
+"chat.agent.networkFilter": true,
+"chat.agent.sandbox.enabledWindows": "on",
+"chat.tools.terminal.outputDeltas": true,
+"chat.tools.terminal.outputCompaction": true,
+"chat.includeReferencedInstructions": true,
+"terminal.integrated.allowInUntrustedWorkspace": true,
+"terminal.integrated.enableImages": true,
+"chat.useClaudeHooks": true,
+"prettier.withNodeModules": true,
+"chat.useCustomizationsInParentRepositories": true,
+}
