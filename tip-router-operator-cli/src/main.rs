@@ -131,7 +131,7 @@ async fn main() -> Result<()> {
             info!("Submit as Memo: {}", cli.submit_as_memo);
             info!("starting stage: {:?}", starting_stage);
 
-            let rpc_client_clone = rpc_client.clone();
+            let rpc_client_clone = rpc_client.clone($);
             let full_snapshots_path = cli
                 .full_snapshots_path
                 .clone()
